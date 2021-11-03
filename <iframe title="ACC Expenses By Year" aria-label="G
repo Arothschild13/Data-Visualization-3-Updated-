@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Test HTML doc</title>
+
+	<!-- Look, I cheated a little here and added some basic CSS so that this
+	page looks a little less tacky as we create it together. -->
+	<style type="text/css">
+		body{margin:auto;max-width:80ch;font-family:Arial;background-color:#22333b;color:#eae0d5}a:link,a:visited{color:#ff934f}img{width:100%}p{line-height:1.2em}
+	</style>
+</head>
+<body>
+	OUCau-acc-expenses-by-year.png
+</body>
+</html>
